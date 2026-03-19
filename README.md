@@ -1,9 +1,12 @@
-I have a geology degree, an MBA, and a Lean Six Sigma Black Belt — which means I can identify the exact type of rock your organization is stuck under, calculate the cost of being stuck there, and then systematically eliminate the inefficiencies keeping you stuck. I'm also a PMP, Certified Scrum Master, and hold certifications in wetland delineation, environmental science, and GIS — not because I still do all of those things, but because the certification was there and I have a problem.
+Built a pulse jet engine in my garage? Obviously.
+Soldered a PCB to make a self-landing model rocket with an Elegoo brain and a 3D-printed thrust vector controller? Yes, and it was a great time.
+Tore apart my truck to replace cam and crankshaft sensors and a PCV valve? Also yes — and whoever designs those parts clearly hates mechanics.
 
-My career has taken me through capital markets, treasury, and now Senior Vice President of Operational Risk and Regulatory Engagement — a title that sounds like I fight compliance bridge trolls for a living, which is essentially accurate.
+Write R models to figure out who knows what? Constantly.
+Turn those models into dashboards that don’t look like a spaceship terminal? Now we’re talking.
 
-I live and breathe spreadsheets, and when that's not enough, I write R code. In my garage I've built a valveless pulse jet engine, then decided to make a 3-foot model rocket land itself — same dream as SpaceX, significantly smaller budget. I designed the thrust vector controller, coded the flight computer, and soldered the PCB myself. Nobody got hurt. Victory.
+Built a lift out of two garage hoists to get a boat off a trailer? My better half shook her head, which felt like confirmation I was on the right track.
 
-I also solved a 12-sided Rubik's Cube. It happened. Thought you should know.
+Solved a 12-sided Rubik’s Cube? Regrettably, yes.
 
-I am absolutely not the smartest person in any room. What I am is epically resourceful. My skill set sits at the intersection of "why on earth would anyone want to know that" and "that would be incredibly handy for bar trivia." Somehow this has translated into a career. I remain grateful and mildly suspicious. Also available for bar trivia teams.
+Sum it all up for ya: I did not regularly sit at the cool kids table at lunch. Sometimes, but usually only when they wanted help with something.
